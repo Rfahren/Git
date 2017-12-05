@@ -44,7 +44,7 @@ while iter<maxit && es<ea
 end
 % plots
 plot(t,y);
-title('proof of rise failed condoms')
+title('Proof of rise in failed condoms')
 xlabel('Time')
 ylable('Population')
 end
